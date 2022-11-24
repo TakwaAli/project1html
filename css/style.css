@@ -1,0 +1,210 @@
+
+.nav_list{
+       
+    width: 60%;
+    
+}
+.nav{
+ padding-left: 10px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: #3C3C3C;
+
+}
+.nav_list ul{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+.nav_list a{
+font-size: 16px;
+font-weight: 500;
+text-decoration: none;
+color: antiquewhite;
+
+}
+.twitterlink{
+  
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    color: antiquewhite;  
+}
+.nav_list a:hover{
+    color: #DF7879;
+}
+.twitterlink:hover{
+    color: #00ACEE;  
+}
+.parent1{
+    height: 30vh;
+    background-color: #292929;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.nav_list2{
+       
+    width: 80%;
+    
+}
+.nav2{
+ padding: 10px;
+display: flex;
+justify-content:center;
+align-items: center;
+background-color: #3C3C3C;
+
+}
+.nav_list2 ul{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.nav_list2 a{
+font-size: 16px;
+font-weight: 500;
+text-decoration: none;
+color: antiquewhite;
+
+}
+
+.nav_list2 a:hover{
+    color: #DF7879;
+}
+.parent2{
+    height: 8vh;
+    background-color: #DF7879;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: antiquewhite;
+}
+.parent2 a{
+ font-size: 20px;
+font-weight: 500;
+text-decoration: none;
+color: antiquewhite;
+}
+.parent3{
+   
+    background-color: #292929;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+.item1{
+    width: 55%;
+    padding: 8px;
+   font-family:  Calibri;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+.item2{
+    width: 35%;
+    padding: 8px;
+    display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+.item1 h2{
+    color: #E3CE90;
+    font-size: 36px;
+}
+.item1 p,h3{
+    color: #999;
+    font-size: 20px;
+}
+.item1 div{
+    background-color: black; 
+     text-align: center;
+      margin:15px ;
+      width: 45%;
+}
+.Advirtis{
+    width:74% ;
+    background-color: black;
+    height: 45vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+.Advirtis a{
+    font-size: 16px;
+font-weight: 500;
+text-decoration: none;
+color: #DF7879;
+
+}
+.Advirtis:hover{
+    background-color: #DF7879; 
+    color: antiquewhite;
+}
+.Advirtis a:hover{
+    color: antiquewhite;
+}
+.parag{
+    width: 55%;
+}
+.parag p{
+    color: #999;
+    font-size: 20px;
+ }
+.parag h1{
+   color: #E3CE90;
+   
+}
+.parent4{
+    padding: 30px;
+    background-color: #292929;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  
+}
+.parent4 p{
+    width: 80%;
+    font-size: 20px;
+    color: #999;
+}
+.parent4 a{
+    font-size: 20px;
+font-weight: 500;
+text-decoration: none;
+color: #af282a;
+
+}
+.parentf{
+    padding: 10px;
+    background-color: #292929;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  
+}
+.itemf{
+width: 30%;
+text-align: center;
+margin: 20px;
+background-color: #0c0c0c;
+}
